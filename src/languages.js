@@ -1,0 +1,6 @@
+[
+    {
+        name: "Amharic",
+        name:   "Oromo"
+    }
+]
